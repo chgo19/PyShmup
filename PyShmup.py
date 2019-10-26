@@ -1,11 +1,9 @@
 """
-Module: shmup.py
-Source: Learning pygame from http://kidscancode.org/lessons/
-
 This is a shoot'em up game made from pygame.
 
-Sound and Music
-# Art from Kenney.nl at opengameart.org
+Learning pygame from http://kidscancode.org/lessons/
+
+Art from Kenney.nl at opengameart.org
 
 """
 
